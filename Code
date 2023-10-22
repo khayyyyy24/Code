@@ -1,0 +1,15 @@
+echo "# Code" >> Main.py
+git init
+git add Main.py
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khayyyyy24/Code.git
+git push -u origin main
+
+echo "# Code" >> Math_function.py
+git init
+git add Math_function.py
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khayyyyy24/Code.git
+git push -u origin main
